@@ -1,6 +1,6 @@
 public class FamilyIntroduction 
 {
-    static void fullNames(String firstName, int age, String location)
+    static void fullName(String firstName, int age, String location)
     {
        // Defines a static void method named fullName that takes a string (firstName) and an integer (age) and string (location) as parameters.
        
